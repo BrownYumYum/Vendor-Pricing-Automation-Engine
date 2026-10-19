@@ -1,0 +1,6 @@
+vendor,sku,price,updated_at
+Acme Supply,ab-123,12.95,2026-01-01
+Acme Supply,AB-123,13.25,2026-02-01
+Northstar Co,xy-440,87.00,2026-01-15
+Acme Supply,invalid,-2,2026-01-21
+Northstar Co,XY-440,90.00,2026-03-01
